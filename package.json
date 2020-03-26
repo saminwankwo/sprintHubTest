@@ -1,0 +1,27 @@
+{
+  "name": "sprinthubtest",
+  "version": "1.0.0",
+  "description": "A node API to query base on dome paramaters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saminwankwo/sprintHubTest.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "API",
+    "REST"
+  ],
+  "author": "Nwankwo Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saminwankwo/sprintHubTest/issues"
+  },
+  "homepage": "https://github.com/saminwankwo/sprintHubTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
